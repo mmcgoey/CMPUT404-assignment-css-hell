@@ -31,6 +31,8 @@ I also provided a link to the old paper background that I am using. You can see 
 
 CITATIONS
 =================
+Note: My gutenberg css is derived from the css already given with some slight changes.
+
 The following three lines below were taken from this website https://w3bits.com/rainbow-text
 I used these three lines of css for making the header text rainbow colored
 ```
